@@ -29,7 +29,7 @@ Aplikasi ini menggunakan **Flutter** sebagai frontend (mobile app) dan **Laravel
 ### Backend
 - [Laravel](https://laravel.com/) (PHP Framework)  
 - RESTful API  
-- MySQL/MariaDB  
+- MySQL
 
 ---
 
@@ -95,6 +95,7 @@ Dilarang keras memperjualbelikan tanpa izin.
 
 Mau saya sekalian bikinkan **struktur folder docs/screenshots/** di project ini biar nanti tinggal isi gambarnya?
 ```
+
 
 
 
