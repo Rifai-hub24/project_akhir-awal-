@@ -37,34 +37,13 @@ Aplikasi ini menggunakan **Flutter** sebagai frontend (mobile app) dan **Laravel
 
 ### 🔐 Autentikasi
 - **Login Page**  
-  ![Login Page](docs/screenshots/login.png)
+  ![Login Page](https://github.com/Rifai-hub24/project_akhir-awal-/blob/06cec47604210687e22b8cf8a69b7f4b67d5aa2e/Screenshot%202025-08-28%20075624.png)
 
 - **Register Page**  
   ![Register Page](docs/screenshots/register.png)
 
 - **Ganti Password**  
   ![Change Password](docs/screenshots/change_password.png)
-
----
-
-### 📋 CRUD Data
-- **Daftar Data**  
-  ![Daftar Data](docs/screenshots/crud_list.png)
-
-- **Tambah Data**  
-  ![Tambah Data](docs/screenshots/crud_add.png)
-
-- **Edit Data**  
-  ![Edit Data](docs/screenshots/crud_edit.png)
-
----
-
-### ⚙️ Backend (Laravel)
-- **API Endpoint**  
-  ![API Laravel](docs/screenshots/api.png)
-
-- **Database (MySQL)**  
-  ![Database](docs/screenshots/database.png)
 
 ---
 
@@ -116,3 +95,4 @@ Dilarang keras memperjualbelikan tanpa izin.
 
 Mau saya sekalian bikinkan **struktur folder docs/screenshots/** di project ini biar nanti tinggal isi gambarnya?
 ```
+
