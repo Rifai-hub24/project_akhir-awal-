@@ -33,11 +33,38 @@ Aplikasi ini menggunakan **Flutter** sebagai frontend (mobile app) dan **Laravel
 
 ---
 
-## 📱 Preview (Contoh UI)
-- Login Page  
-- Register Page  
-- Change Password Page  
-- CRUD Page  
+## 📱 Dokumentasi (Screenshots)
+
+### 🔐 Autentikasi
+- **Login Page**  
+  ![Login Page](docs/screenshots/login.png)
+
+- **Register Page**  
+  ![Register Page](docs/screenshots/register.png)
+
+- **Ganti Password**  
+  ![Change Password](docs/screenshots/change_password.png)
+
+---
+
+### 📋 CRUD Data
+- **Daftar Data**  
+  ![Daftar Data](docs/screenshots/crud_list.png)
+
+- **Tambah Data**  
+  ![Tambah Data](docs/screenshots/crud_add.png)
+
+- **Edit Data**  
+  ![Edit Data](docs/screenshots/crud_edit.png)
+
+---
+
+### ⚙️ Backend (Laravel)
+- **API Endpoint**  
+  ![API Laravel](docs/screenshots/api.png)
+
+- **Database (MySQL)**  
+  ![Database](docs/screenshots/database.png)
 
 ---
 
@@ -74,6 +101,7 @@ Laravel akan berjalan di `http://127.0.0.1:8000`
 
 * Project ini masih **tahap awal** dan akan dikembangkan lebih lanjut untuk keperluan **UKK**.
 * Backend dan frontend sudah saling terhubung.
+* Screenshot disimpan di folder `docs/screenshots/`.
 
 ---
 
@@ -86,5 +114,5 @@ Dilarang keras memperjualbelikan tanpa izin.
 
 ---
 
-
-
+Mau saya sekalian bikinkan **struktur folder docs/screenshots/** di project ini biar nanti tinggal isi gambarnya?
+```
