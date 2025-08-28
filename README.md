@@ -1,8 +1,4 @@
-Oke 👍 saya buatin draft **README.md** untuk GitHub project kamu, dengan keterangan kalau ini adalah project akhir tahap awal untuk UKK dan ada nama + asal sekolahmu.
 
-Berikut contoh **README.md**:
-
-````markdown
 # 📌 Project Akhir Tahap Awal UKK - Aplikasi Flutter + Laravel
 
 Projek ini merupakan **project akhir tahap awal** dalam rangka persiapan **Uji Kompetensi Keahlian (UKK)**.  
@@ -89,5 +85,6 @@ Dilarang keras memperjualbelikan tanpa izin.
 ```
 
 ---
+
 
 
